@@ -19,3 +19,7 @@ B站视频:https://www.bilibili.com/video/BV1UA411K7Nj?p=1
 ### [P1-P5] Polygonal Rembrandt
 - Edge Detect Implementation: 用Kernel识别图像中的edge。很受启发，让我回忆起了大学里学的不少图像识别相关的算法以后都可以在houdini里试试。
 - `Attribute From Map` ：可以将图片颜色transfer到grid上
+
+### [P7] Curl Noise Flow
+- 用vdb构建速度场
+- solver + trail 形成点在curl noise中的运动轨迹
